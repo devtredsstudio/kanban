@@ -2,7 +2,7 @@
 
 Peojeto desenvolvido com a aula do YouTube da @Larissakich.
 
-É um projeto de organização pessoal para suas tarefas ou para ajuda no seu trabalho! aO *Kanban* foi desenvolvido com *HTML, **CSS* e *JavaScript. O sistema permite que você arraste e solte as colunas com a funcionalidade **(drag and drop)*, facilitando o gerenciamento de atividades.
+É um projeto de organização pessoal para suas tarefas ou para ajuda no seu trabalho! O *Kanban* foi desenvolvido com *HTML*, *CSS* e *JavaScript*. O sistema permite que você arraste e solte as colunas com a funcionalidade *(drag and drop)*, facilitando o gerenciamento de atividades.
 
 ## 🖥️ Como ficou o Projeto
 
@@ -11,4 +11,8 @@ Peojeto desenvolvido com a aula do YouTube da @Larissakich.
 ## 🚀 O projeto ainda continua (Atualizações)
 
 em breve...
+
+## 📫 Contato
+
+*Feito com 💙 por Carlos (@devtredsstudio)*
 
